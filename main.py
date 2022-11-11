@@ -14,11 +14,6 @@ import os
 API_TOKEN = str(os.environ.get('BOT_TOKEN'))
 
 
-
-
-#API_TOKEN = '5719510147:AAFgNkghqlqg1feVwD_3cNhgABQZcFeevpA'
-
-
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 
